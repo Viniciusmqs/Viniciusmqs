@@ -48,8 +48,8 @@
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | 🔗 [**Project 1**]((https://github.com/Viniciusmqs/crypto-dashboard)) | Painel de Criptomoedas com valores em tempo real , gráficos interativos e carteira virtual simulada . Ideal para acompanhar o mercado cripto de forma clara e moderna.
-| 🤖 [**Project 2**](https://github.com/Viniciusmqs/blinkscore) | | Painel de diario espacial da nasa , trazendo as principais fotos tiradas de cada dia
-
+| 🤖 [**Project 2**](https://github.com/Viniciusmqs/blinkscore) | Painel de diario espacial da nasa , trazendo as principais fotos tiradas de cada dia
+|
 📂 [Ver todos os repositórios](https://github.com/Viniciusmqs?tab=repositories)
 
 ---
